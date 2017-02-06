@@ -1,0 +1,5 @@
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\ClassFinder\bin\Debug\ClassFinder.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\ClassFinder\bin\Debug\ClassFinder.pdb
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\ClassFinder\obj\Debug\ClassFinder.csprojResolveAssemblyReference.cache
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\ClassFinder\obj\Debug\ClassFinder.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\ClassFinder\obj\Debug\ClassFinder.pdb

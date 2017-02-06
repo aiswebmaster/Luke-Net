@@ -1,0 +1,10 @@
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\bin\Debug\LukePlugin.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\bin\Debug\LukePlugin.pdb
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\bin\Debug\Lucene.Net.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\bin\Debug\Lucene.Net.xml
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\obj\Debug\LukePlugin.csprojResolveAssemblyReference.cache
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\obj\Debug\Lucene.Net.LukeNet.Plugins.LukePlugin.resources
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\obj\Debug\LukePlugin.csproj.GenerateResource.Cache
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\obj\Debug\LukePlugin.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\LukePlugin\obj\Debug\LukePlugin.pdb

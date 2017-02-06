@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PrefsData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MruList>
+    <anyType xsi:type="xsd:string">C:\TFS\JoyceMeyer\Main\Sitecore\Website\App_Data\indexes\sitecore_web_index</anyType>
+    <anyType xsi:type="xsd:string">C:\TFS\JoyceMeyer\DevPhaseTwo\Sitecore\Website\App_Data\indexes\sitecore_web_index</anyType>
+    <anyType xsi:type="xsd:string">C:\Users\dylan.young\Desktop\sitecore_web_index\sitecore_web_index</anyType>
+  </MruList>
+  <UseCompound>false</UseCompound>
+</PrefsData>

@@ -1,0 +1,14 @@
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\AnalyzerToolPlugin.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\AnalyzerToolPlugin.pdb
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\ClassFinder.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\Lucene.Net.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\LukePlugin.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\ClassFinder.pdb
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\LukePlugin.pdb
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\bin\Debug\Lucene.Net.xml
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\obj\Debug\AnalyzerToolPlugin.csprojResolveAssemblyReference.cache
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\obj\Debug\Lucene.Net.LukeNet.Plugins.AnalyzerToolPlugin.resources
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\obj\Debug\AnalyzerToolPlugin.csproj.GenerateResource.Cache
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\obj\Debug\AnalyzerToolPlugin.dll
+C:\Users\dylan.young\Downloads\luke-net-src-pangu\luke-net-src\AnalyzerToolPlugin\obj\Debug\AnalyzerToolPlugin.pdb
