@@ -59,35 +59,36 @@ namespace Lucene.Net.LukeNet
             // buttonOK
             // 
             this.buttonOK.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.buttonOK.Location = new System.Drawing.Point(71, 112);
+            this.buttonOK.Location = new System.Drawing.Point(59, 97);
             this.buttonOK.Name = "buttonOK";
-            this.buttonOK.Size = new System.Drawing.Size(90, 26);
+            this.buttonOK.Size = new System.Drawing.Size(75, 23);
             this.buttonOK.TabIndex = 6;
             this.buttonOK.Text = "OK";
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(67, 18);
+            this.label1.Location = new System.Drawing.Point(56, 16);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(125, 28);
+            this.label1.Size = new System.Drawing.Size(104, 24);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Luke.Net 1.0";
+            this.label1.Text = "Luke.Net 0.5";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(52, 46);
+            this.label2.Location = new System.Drawing.Point(7, 40);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(140, 17);
+            this.label2.Size = new System.Drawing.Size(209, 45);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Built by Dylan Young";
+            this.label2.Text = "Thanks for  Andrzej Bialecki\r\nFix and update to Lucene.Net 2.9.4.1 \r\nby http://ww" +
+    "w.cnblogs.com/jinzhao/";
             // 
             // About
             // 
-            this.AutoScaleBaseSize = new System.Drawing.Size(6, 15);
-            this.ClientSize = new System.Drawing.Size(252, 189);
+            this.AutoScaleBaseSize = new System.Drawing.Size(5, 13);
+            this.ClientSize = new System.Drawing.Size(210, 127);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.buttonOK);
             this.Controls.Add(this.label2);
